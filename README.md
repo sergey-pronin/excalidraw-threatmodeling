@@ -2,6 +2,8 @@
 
 An opinionated selection of shapes to turn the free and cross-platform Excalibur diagramming application into the perfect tool for threat modeling. This repo is a backup of the shapes, saved as a flat file. The official [Excalidraw Libraries](https://github.com/excalidraw/excalidraw-libraries) repository [will](https://github.com/excalidraw/excalidraw-libraries/pull/1009) host the library.
 
+![Excalidraw Threat Modeling shapes preview](excalidraw-threatmodeling.png)
+
 ## Data Flow Diagrams
 [Data Flow Diagramming](https://en.wikipedia.org/wiki/Data_flow_diagram) is a simple diagramming technique used to gain an understanding of how data flows in an application or system. DFDs are excellent for getting a bird's-eye view of a system to facilitate threat modeling.
 
